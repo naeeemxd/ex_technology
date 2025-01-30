@@ -1,0 +1,4 @@
+#Thu Jan 30 14:12:09 IST 2025
+base.0=E\:\\ex_technology\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
